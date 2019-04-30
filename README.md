@@ -1,29 +1,23 @@
-# ejemplo1
+# Vue.js Template App
+### Template para utilizar en el armado del proyecto final de la materia "Programación en nuevas tecnologias 2" 
 
-## Project setup
+## Para manejar sus dependencias
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+### Compilar para desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para produccion
 ```
 npm run build
 ```
 
-### Run your tests
+### Ejecutar nuestros tests
 ```
 npm run test
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
