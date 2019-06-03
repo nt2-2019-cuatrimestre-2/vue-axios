@@ -1,5 +1,6 @@
-# Vue.js Template App
-### Template para utilizar en el armado del proyecto final de la materia "Programación en nuevas tecnologias 2" 
+# Vue.js - Consumiendo servicios
+### Lista con recursos (apis publicas en su mayoria)" 
+[a link](https://github.com/toddmotto/public-apis)
 
 ## Para manejar sus dependencias
 ```
